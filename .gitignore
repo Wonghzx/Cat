@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .deps
 *.lo
 *.la
@@ -34,7 +34,7 @@ tests/*/*.php
 tests/*/*.exp
 tests/*/*.log
 tests/*/*.sh
-=======
+
 # Prerequisites
 *.d
 
@@ -67,4 +67,3 @@ tests/*/*.sh
 *.exe
 *.out
 *.app
->>>>>>> 94366f29dd8b064b097d42d0f1535055c34700e7
